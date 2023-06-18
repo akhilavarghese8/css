@@ -1,0 +1,31 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+body{
+    /* background-color: black; */
+}
+
+div{
+    height: 600px;
+    width: 1500px;
+    background-color: black;
+    color: antiquewhite;
+    border: white 6px solid;
+    position: absolute;
+    padding: 20px;
+
+}
+.c1{
+     ;
+}
+.c2{
+
+}
+.c4{
+
+}
+.c5{
+
+}

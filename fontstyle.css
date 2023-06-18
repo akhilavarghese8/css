@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,500&display=swap');
+div{
+    background-color:black ;
+    color: aliceblue;
+    width:50% ;
+    /* padding-left: 30px; */
+    padding:40px ;
+    border:red 3px solid ;
+
+}
+
+p{
+    font-size: xx-large;
+    font-family: 'Open Sans', sans-serif;
+    
+}

@@ -1,0 +1,26 @@
+h1{
+    color: blueviolet;
+}
+#a1{
+    color: brown;
+    text-align: end;
+}
+.cl{
+    color: aquamarine;
+}
+body{
+    background-color: black;
+}
+div{
+    background-color: white;
+}
+div{
+    background-color:yellowgreen;
+}
+#d1{
+    background-color: aqua;
+}
+/*selectors */
+/* tag name selector*/
+/*id selector  # */
+/* class selector . */

@@ -1,0 +1,62 @@
+.parent{
+    margin:-161px ;
+    padding:266px ;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    height: 277px;
+    padding-left: 16%;
+
+}
+
+body{
+    background-image: url("./images/background.png");
+    background-size:cover;
+}
+.n1{
+    margin-right: 20px;
+    margin-top: 10px;
+    padding:
+}
+
+
+.a1{
+    
+    margin-right: 20px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+h1{
+    color: aliceblue;
+    font-size: xx-large;
+
+}
+p{
+    color: antiquewhite;
+    font-size:medium;
+    line-height: 15px;
+}
+button{
+    width: 180px;
+    color: aqua;
+    font-size: medium;
+    padding: 12px;
+    background-color: antiquewhite;
+    border: 0in;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30px;
+}
+.card{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url("./images/pic-1.png") ;
+    background-position: center;
+    background-size: cover;
+}

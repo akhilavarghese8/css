@@ -1,0 +1,13 @@
+.parent{
+    margin:0px ;
+    padding:0px ;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 100vh;
+
+}
+
+body{
+    background-image:url("./images/Desert\ Webpage\ Img/#a1")
+    background-size:cover;
+}
